@@ -29,3 +29,11 @@ span
 #heading{
   font-size: 30px;
 }
+#view{
+  width: 250px;
+  height: 250px;
+}
+#snapshot{
+  width: 250px;
+  height: 250px;
+}
